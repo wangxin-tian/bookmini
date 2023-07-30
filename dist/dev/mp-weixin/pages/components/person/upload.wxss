@@ -1,0 +1,52 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-12[0].rules[0].use[1]!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js??clonedRuleSet-12[0].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-12[0].rules[0].use[3]!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/index.js??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!./src/pages/components/person/upload.vue?vue&type=style&index=0&id=bd88c58a&scoped=true&lang=css& ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+.upload-wrap.data-v-bd88c58a {
+  display: flex;
+  flex-direction: column;
+
+  height: 90vh;
+  width: 700rpx;
+  padding: 25rpx;
+}
+.upload-wrap .input-wrap.data-v-bd88c58a {
+  margin-top: 20rpx;
+  padding: 10rpx;
+  border: 1rpx #999 solid;
+  border-radius: 15rpx;
+  box-shadow: 1px 2px 1px 1px #EEE;
+  /* width: 700rpx; */
+  /* height: ; */
+
+  display: flex;
+  flex-direction: row;
+}
+.input-wrap>view.data-v-bd88c58a,
+.input-wrap>.book-input.data-v-bd88c58a {
+  height: 100rpx;
+  line-height: 100rpx;
+}
+.input-wrap>.book-input.data-v-bd88c58a {
+  color: #999;
+}
+.content-upload.data-v-bd88c58a {
+  flex: 1;
+  margin-top: 20rpx;
+  padding: 10rpx;
+  border: 1rpx #999 solid;
+  border-radius: 15rpx;
+  box-shadow: 1px 2px 1px 1px #EEE;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.content-upload view.data-v-bd88c58a {
+  font-weight: 900;
+}
+.content-upload button.data-v-bd88c58a {
+  margin-top: 100rpx;
+  width: 50%;
+}
+

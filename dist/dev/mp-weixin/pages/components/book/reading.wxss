@@ -1,0 +1,38 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-12[0].rules[0].use[1]!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js??clonedRuleSet-12[0].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-12[0].rules[0].use[3]!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/index.js??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!./src/pages/components/book/reading.vue?vue&type=style&index=0&id=6e8ef1d6&scoped=true&lang=css& ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+.reading.data-v-6e8ef1d6 {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+.bg_read.data-v-6e8ef1d6 {
+  background-color: rgb(111, 203, 172);
+}
+.title.data-v-6e8ef1d6 {
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 200;
+}
+.content.data-v-6e8ef1d6 {
+  width: 730rpx;
+  height: 82vh;
+  color: #000;
+  border: 1px solid #000;
+  padding: 10rpx;
+  overflow: auto;
+}
+.turn_to_page.data-v-6e8ef1d6 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.btn-position.data-v-6e8ef1d6 {
+  position: absolute;
+  bottom: 10rpx;
+}
+

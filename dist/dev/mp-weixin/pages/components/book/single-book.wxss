@@ -1,0 +1,45 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-12[0].rules[0].use[1]!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js??clonedRuleSet-12[0].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-12[0].rules[0].use[3]!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/index.js??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!./src/pages/components/book/single-book.vue?vue&type=style&index=0&id=0abc8e98&scoped=true&lang=css& ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+.single-book.data-v-0abc8e98 {
+  margin: 10rpx;
+  width: 100%;
+  position: relative;
+  height: 250rpx;
+  /* width: 280rpx; */
+  padding: 0 5rpx;
+}
+.book-container.data-v-0abc8e98 {
+  display: flex;
+  flex-direction: row;
+  /* padding: 0 22rpx; */
+}
+.book-img.data-v-0abc8e98 {
+  width: 200rpx;
+  height: 250rpx;
+  padding-bottom: 20rpx;
+  position: relative;
+}
+.episode.data-v-0abc8e98 {
+  position: absolute;
+  /* bottom:20rpx; */
+  width: 200rpx;
+  font-size: 30rpx;
+  color: #ffffff;
+  background: #000;
+  opacity: 0.6;
+  text-align: center;
+}
+.book-info.data-v-0abc8e98 {
+  width: -webkit-max-content;
+  width: max-content;
+  height: -webkit-max-content;
+  height: max-content;
+  padding: 10rpx;
+  font-size: large;
+}
+.book-msg.data-v-0abc8e98 {
+  font-size: medium;
+  color: #666;
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "详情页面",
+  "usingComponents": {
+    "uni-fav": "/node-modules/@dcloudio/uni-ui/lib/uni-fav/uni-fav"
+  }
+}
